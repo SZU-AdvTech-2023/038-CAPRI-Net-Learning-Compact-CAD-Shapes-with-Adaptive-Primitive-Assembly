@@ -1,0 +1,7 @@
+@article{REPO038,
+    author = "Yu, Fenggen and Chen, Zhiqin and Li, Manyi and Sanghi, Aditya and Shayani, Hooman and Mahdavi-Amiri, Ali and Zhang, Hao",
+    journal = "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    pages = "11758-11768",
+    title = "{CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly}",
+    year = "2021"
+}
